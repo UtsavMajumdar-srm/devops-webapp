@@ -3,3 +3,4 @@ public class App {
         System.out.println("Hello Jenkins CI/CD!");
     }
 }
+// Triggering Jenkins auto build
